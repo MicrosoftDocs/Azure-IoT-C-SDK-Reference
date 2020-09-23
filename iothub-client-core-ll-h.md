@@ -13,7 +13,9 @@ ms.topic: "reference"
 
 # iothub_client_core_ll.h 
 
-APIs that allow a user (usually a device) to communicate with an Azure IoTHub.
+Internal APIs used by the Azure IoT C SDK to communicate with an Azure IoTHub.
+
+Direct use of this library header is not supported.
 
 ## Includes
 
