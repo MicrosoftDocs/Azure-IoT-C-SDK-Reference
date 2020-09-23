@@ -30,6 +30,10 @@ IoTHubClientCore is a module that extends the IoTHubClientCore_LL module with 2 
 
 * thread-safe APIs
 
+This is an internal APIs used by the Azure IoT C SDK to communicate with an Azure IoTHub.
+
+Direct use of this library header is not supported.
+
 ## Functions
 
 Function Name                  | Description                                
